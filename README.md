@@ -13,4 +13,4 @@ Some of my projects
  1. CacheNet
  2. CoFarm
  3. B4MUSIC
- 4. COPIC
+ 4. COPIC (Rebuilt it)
