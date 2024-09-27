@@ -5,6 +5,7 @@ I am software engineer dedicated to building user-focused applications for custo
 I am also passionate about ideating, conceptualizing, and producing consumer-centric. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
 Reach Me Out:
+
   Email: benisamuel566@gmail.com
   Phone: +250798676159
 
