@@ -6,8 +6,8 @@ I am also passionate about ideating, conceptualizing, and producing consumer-cen
 
 Reach Me Out:
 
-  Email: benisamuel566@gmail.com
-  Phone: +250798676159
+  - Email: benisamuel566@gmail.com
+  - Phone: +250798676159
 
 Some of my projects
  1. CacheNet
