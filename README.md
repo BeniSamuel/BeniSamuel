@@ -1,16 +1,18 @@
-Hi there 👋
 
-I am software engineer dedicated to building user-focused applications for customers with various business objectives. Analytical problem solver with calm and focused demeanor and judicious and creative when crafting effective websites,mobile apps, web apps and platforms to propel competitive advantage and revenue growth. Focused on Backend development for 2+ years, implementing best functional and object-oriented programming practices and ensuring the best security practices.
+# Hi there 👋
 
-I am also passionate about ideating, conceptualizing, and producing consumer-centric. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
+I am a software engineer passionate about building user-centric applications that align with business objectives. With over 2 years of experience in backend development, I specialize in creating secure, efficient, and scalable web and mobile applications. I’m an analytical problem solver who stays calm and focused, bringing creativity and attention to detail when designing solutions that drive competitive advantage and growth.
 
-Reach Me Out:
+I’m deeply committed to functional and object-oriented programming, with a focus on applying best security practices to every project.
 
-  - Email: benisamuel566@gmail.com
-  - Phone: +250798676159
+I'm open to exploring exciting full-stack development opportunities, particularly in startups and scaling companies.
 
-Some of my projects
- 1. CacheNet
- 2. CoFarm
- 3. B4MUSIC
- 4. COPIC (Rebuilt it)
+### Reach out to me:
+- **Email**: [benisamuel566@gmail.com](mailto:benisamuel566@gmail.com)
+- **Phone**: +250 798 676 159
+
+### Some of my projects:
+1. **CacheNet** (Currently working on)
+2. **CoFarm**
+3. **B4MUSIC**
+4. **COPIC** (Rebuilt)
