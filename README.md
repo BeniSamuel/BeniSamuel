@@ -13,7 +13,7 @@ I'm open to exploring exciting full-stack development opportunities, particularl
 
 ### Some of my projects:
 1. **CacheNet** (Currently working on)
-2. **CoFarm**
+2. [**CoFarm**](https://cofarm.vercel.app)
 3. **B4MUSIC**
-4. [**BeShopy**](https://beshopy.vercel.app/signup)
+4. [**BeShopy**](https://beshopy.vercel.app)
 5. **COPIC** (Rebuilt)
