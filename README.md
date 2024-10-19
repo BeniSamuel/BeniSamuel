@@ -15,4 +15,5 @@ I'm open to exploring exciting full-stack development opportunities, particularl
 1. **CacheNet** (Currently working on)
 2. **CoFarm**
 3. **B4MUSIC**
-4. **COPIC** (Rebuilt)
+4. [**BeShopy**](https://beshopy.vercel.app/signup)
+5. **COPIC** (Rebuilt)
