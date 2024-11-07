@@ -16,4 +16,4 @@ I'm open to exploring exciting full-stack development opportunities, particularl
 2. [**CoFarm**](https://cofarm.vercel.app)
 3. **B4MUSIC**
 4. [**BeShopy**](https://beshopy.vercel.app)
-5. **COPIC** (Rebuilt)
+5. [**PiXic**](https://pixic.vercel.app)
