@@ -14,6 +14,6 @@ I'm open to exploring exciting full-stack development opportunities, particularl
 ### Some of my projects:
 1. **CacheNet** (Currently working on)
 2. [**CoFarm**](https://cofarm.vercel.app)
-3. **B4MUSIC**
+3. [**B4MUSIC**](https://b4music.vercel.app)
 4. [**BeShopy**](https://beshopy.vercel.app)
 5. [**PiXic**](https://pixic.vercel.app)
