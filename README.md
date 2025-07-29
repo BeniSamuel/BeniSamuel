@@ -1,19 +1,58 @@
+<h1 align="center">Hey there, I'm Beni 👋</h1>
+<p align="center">
+  <em>A chill software engineer who loves clean code, bold color palettes, and turning caffeine into real-life solutions ☕✨</em>
+</p>
 
-# Hi there 👋
+---
 
-I am a software engineer passionate about building user-centric applications that align with business objectives. With over 2 years of experience in backend development, I specialize in creating secure, efficient, and scalable web and mobile applications. I’m an analytical problem solver who stays calm and focused, bringing creativity and attention to detail when designing solutions that drive competitive advantage and growth.
+### 👨‍💻 About Me
 
-I’m deeply committed to functional and object-oriented programming, with a focus on applying best security practices to every project.
+I'm a **software engineer** with a strong backend focus — passionate about building applications that **make life easier** and **help communities connect**.
 
-I'm open to exploring exciting full-stack development opportunities, particularly in startups and scaling companies.
+🔧 I specialize in:
+- Building secure and scalable **APIs**
+- **Full-stack apps** with great UX
+- Mixing **creativity + logic** to bring ideas to life
 
-### Reach out to me:
-- **Email**: [benisamuel566@gmail.com](mailto:benisamuel566@gmail.com)
-- **Phone**: +250 798 676 159
+> I love working on ideas that look good *and* work great!
 
-### Some of my projects:
-1. **CacheNet** (Currently working on)
-2. [**CoFarm**](https://cofarm.vercel.app)
-3. [**B4MUSIC**](https://b4music.vercel.app)
-4. [**BeShopy**](https://beshopy.vercel.app)
-5. [**PiXic**](https://pixic.vercel.app)
+---
+
+### 🎨 Fun Fact About Me
+> If code had a favorite color, mine would be **#6C5CE7 (Electric Indigo)** — it's cool, smooth, and *kinda powerful*.  
+I choose color themes for my projects like some people pick coffee beans ☕💻
+
+---
+
+### 🚀 Projects I’m Proud Of
+
+| Project | Description |
+|--------|-------------|
+| ⚙️ **CacheNet** | `In progress` — A developer-first performance monitoring tool |
+| 🌾 [**CoFarm**](https://cofarm.vercel.app) | Helping farmers connect, trade, and thrive |
+| 🎧 [**B4MUSIC**](https://b4music.vercel.app) | Discover and enjoy music made for you |
+| 🛍️ [**BeShopy**](https://beshopy.vercel.app) | A smooth, mobile-first eCommerce experience |
+| 📷 [**PiXic**](https://pixic.vercel.app) | Share moments, colors, and vibes (like Instagram but cooler) |
+
+---
+
+### 💌 Let's Connect
+
+- 📧 [benisamuel566@gmail.com](mailto:benisamuel566@gmail.com)
+- 📱 +250 798 676 159
+
+---
+
+### 😄 Just For Fun
+> I once fixed a bug at **3:27 AM**, renamed the variable from `dataFinalv2_lastFixNEW` to `applePie`, and it just worked.  
+Coding, man. Pure magic sometimes.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="coder gif" />
+</p>
+
+---
+
+> 🛠️ Built with love, logic, and a little bit of color.
