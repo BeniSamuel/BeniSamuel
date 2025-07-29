@@ -32,7 +32,7 @@ I choose color themes for my projects like some people pick coffee beans ☕💻
 | 🌾 [**CoFarm**](https://cofarm.vercel.app) | Helping farmers connect, trade, and thrive |
 | 🎧 [**B4MUSIC**](https://b4music.vercel.app) | Discover and enjoy music made for you |
 | 🛍️ [**BeShopy**](https://beshopy.vercel.app) | A smooth, eCommerce experience |
-| 📷 [**PiXic**](https://pixic.vercel.app) | Find a photographer and capture some great shots — fun guaranteed! ) |
+| 📷 [**PiXic**](https://pixic.vercel.app) | Book a photographer and create beautiful memories, haha! ) |
 
 ---
 
