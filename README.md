@@ -50,7 +50,7 @@ Coding, man. Pure magic sometimes.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7b4OXH5Dz3WJc3C/giphy.gif" width="300" alt="neon music waves gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="lofi coding music gif" />
 </p>
 
 ---
