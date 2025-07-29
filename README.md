@@ -50,7 +50,7 @@ Coding, man. Pure magic sometimes.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cat vibing gif" />
+  <img src="https://media.giphy.com/media/1ymb9sHzEnnFvFhBlT/giphy.gif" width="300" alt="drawing gif" />
 </p>
 
 ---
