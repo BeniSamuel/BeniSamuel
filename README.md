@@ -31,8 +31,8 @@ I choose color themes for my projects like some people pick coffee beans ☕💻
 | ⚙️ **CacheNet** | `In progress` — A developer-first performance monitoring tool |
 | 🌾 [**CoFarm**](https://cofarm.vercel.app) | Helping farmers connect, trade, and thrive |
 | 🎧 [**B4MUSIC**](https://b4music.vercel.app) | Discover and enjoy music made for you |
-| 🛍️ [**BeShopy**](https://beshopy.vercel.app) | A smooth, mobile-first eCommerce experience |
-| 📷 [**PiXic**](https://pixic.vercel.app) | Share moments, colors, and vibes (like Instagram but cooler) |
+| 🛍️ [**BeShopy**](https://beshopy.vercel.app) | A smooth, eCommerce experience |
+| 📷 [**PiXic**](https://pixic.vercel.app) | Book a photographer and make nice picture hhh!!! ) |
 
 ---
 
@@ -50,7 +50,7 @@ Coding, man. Pure magic sometimes.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="coder gif" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="chill coding gif" />
 </p>
 
 ---
