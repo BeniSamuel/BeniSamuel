@@ -28,7 +28,6 @@ I choose color themes for my projects like some people pick coffee beans ☕💻
 
 | Project | Description |
 |--------|-------------|
-| ⚙️ **CacheNet** | `In progress` — A developer-first performance monitoring tool |
 | 🌾 [**CoFarm**](https://cofarm.vercel.app) | Helping farmers connect, trade, and thrive |
 | 🎧 [**B4MUSIC**](https://b4music.vercel.app) | Discover and enjoy music made for you |
 | 🛍️ [**BeShopy**](https://beshopy.vercel.app) | A smooth, eCommerce experience |
